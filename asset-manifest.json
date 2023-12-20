@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/groupchat/static/css/main.f0d7222b.css",
+    "main.js": "/groupchat/static/js/main.c0c65488.js",
+    "static/js/787.cf5297ae.chunk.js": "/groupchat/static/js/787.cf5297ae.chunk.js",
+    "index.html": "/groupchat/index.html",
+    "main.f0d7222b.css.map": "/groupchat/static/css/main.f0d7222b.css.map",
+    "main.c0c65488.js.map": "/groupchat/static/js/main.c0c65488.js.map",
+    "787.cf5297ae.chunk.js.map": "/groupchat/static/js/787.cf5297ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d7222b.css",
+    "static/js/main.c0c65488.js"
+  ]
+}
